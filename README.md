@@ -25,4 +25,4 @@ Estética Visual:
 Los resultados de las operaciones se actualizan inmediatamente en la pantalla, proporcionando un feedback instantáneo que es crucial para la usabilidad.
 
 ## Interfaz
-![interfaz]!(/interfaz.png)
+![interfaz](interfaz.png)
