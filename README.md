@@ -1,7 +1,14 @@
 # CalculadoraIOS
 
 ## Descripción
+La aplicación de calculadora que has diseñado usando Flet se centra en ofrecer funcionalidades básicas de una calculadora estándar junto con una interfaz de usuario intuitiva y estéticamente agradable. A continuación, detallo el alcance que se puede lograr con la aplicación:
 
+## Requerimientos
+- [x] Haber instalado la biblioteca flet, para instalar y ejecutar haz lo siguiente:
+```
+* pip install flet
+* run flet (main.py)
+```
 
 ## Funcionalidades Básicas
 ### Operaciones Aritméticas Básicas:
@@ -26,3 +33,5 @@ Los resultados de las operaciones se actualizan inmediatamente en la pantalla, p
 
 ## Interfaz
 ![interfaz](interfaz.png)
+
+
