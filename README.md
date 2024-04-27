@@ -6,8 +6,8 @@ La aplicación de calculadora que has diseñado usando Flet se centra en ofrecer
 ## Requerimientos
 - [x] Haber instalado la biblioteca flet, para instalar y ejecutar haz lo siguiente:
 ```
-* pip install flet
-* run flet (main.py)
+pip install flet
+run flet (main.py)
 ```
 
 ## Funcionalidades Básicas
